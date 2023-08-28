@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [development, master]
+    branches: [master]
 
 name: Deploy gateway-service App to ECS service
 
